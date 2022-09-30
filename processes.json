@@ -1,0 +1,14 @@
+{
+    "apps": [
+        {
+            "name": "gisserver",
+            "script": "./bin/www",
+            "instances": 1,
+            "exec_mode": "fork",
+            "env": {
+                "APP_VER": "public",
+                "PORT": "3000"
+            }
+        }
+    ]
+}

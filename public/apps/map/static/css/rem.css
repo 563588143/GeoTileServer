@@ -1,0 +1,13 @@
+html{
+  font-size:100px !important;
+}
+@media only screen and (max-width: 1460px){
+  html {
+    font-size: 90px !important;
+  }
+}
+/* @media only screen and (max-width: 1360px){
+  html {
+    font-size: 70px !important;
+  }
+} */
