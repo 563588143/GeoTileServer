@@ -1,7 +1,7 @@
 const path = require("path");
 /***
  * @description 服务器全局配置
- * @author LJ
+ * @author 
  * @version 1.0
  */
 //服务器全局配置

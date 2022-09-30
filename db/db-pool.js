@@ -1,6 +1,6 @@
 /***
  * @description 创建数据库连接池
- * @author LJ
+ * @author 
  * @version 1.0
  */
 var pg = require('pg');
