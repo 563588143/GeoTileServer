@@ -8,11 +8,7 @@ Gis Service
 
 # api rest 接口说明
 
-http://yapi.demo.qunar.com/
-
-# 文件夹/db/db-config.js
-
-database 配置
+参考setup/GisServer.postman_collection.json,使用postman工具,线上地址https://www.postman.com/
 
 # 消息中间件,RabbitMQ
 
